@@ -1,0 +1,6 @@
+transformers
+torch>=2.0.0
+sentence-transformers
+nltk
+PyPDF2
+scikit-learn
